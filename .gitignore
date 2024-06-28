@@ -1,6 +1,5 @@
-# Exclude gitkeep
-.gitkeep
 
+<<<<<<< Updated upstream
 # Exclude lesson plans
 LessonPlan.md
 
@@ -20,3 +19,6 @@ Challenges/*/Solutions
 # Lessons/*/*/Images
 
 api_keys.py
+=======
+api_keys.py
+>>>>>>> Stashed changes
